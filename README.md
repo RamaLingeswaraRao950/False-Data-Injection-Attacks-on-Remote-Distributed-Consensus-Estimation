@@ -3,27 +3,23 @@
 It focuses on the **security challenges** in remote distributed consensus estimation, particularly in systems where sensors transmit data to estimators via wireless networks. It investigates how **false-data injection (FDI) attacks** can compromise such systems by stealthily altering sensor data to degrade performance while remaining undetected. 🚨🛡️
 
 ### Key Features 🌟
-- **Novel Joint-FDI Attack Model**: Introduces a model where false data are injected into both communication channels and estimators, bypassing anomaly detectors. 💡🔒  
-- **Trade-off Analysis**: Evaluates the balance between attack stealthiness and performance degradation. ⚖️📈  
-- **Performance Metrics**: Utilizes relative entropy to assess attack stealthiness and effectiveness. 📐🕵️
+- Novel Joint-FDI Attack Model : Introduces a model where false data are injected into both communication channels and estimators, bypassing anomaly detectors. 💡🔒  
+- Trade-off Analysis : Evaluates the balance between attack stealthiness and performance degradation. ⚖️📈  
+- Performance Metrics : Utilizes relative entropy to assess attack stealthiness and effectiveness. 📐🕵️
 
 ### Modules 🛠️
-1. **Admin**:  
+   - Admin :  
    - Manage users:
 
 ## Technologies Used 💻
-### Frontend 🌐  
-- **HTML**  
-- **CSS**  
-- **JavaScript**
+### 🌐Frontend :
+HTML5, CSS3, JavaScript
 
-### Backend ⚙️  
-- **Java/J2EE**  
-  - JSP  
-  - Servlets  
+### ⚙️Backend :
+Java/J2EE, JSP, Servlets  
 
-### Database 🗄️  
-- **MySQL**
+### Database : 
+MySQL
 
 ### Prerequisites ✅⚙️
 Ensure you have the following installed on your system:  
