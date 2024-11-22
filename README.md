@@ -26,3 +26,5 @@ Ensure you have the following installed on your system:
 3. **MySQL :** (Version 8.0 or later)🗄️
 4. **IDE :** Eclipse/IntelliJ IDEA recommended for Java development🖥️  
 5. **Web Browser :** (for testing the web interface)🌍
+
+🔍 This project not only identifies vulnerabilities but also proposes innovative solutions for securing sensor-based systems. It was a thrilling experience to work on a topic at the intersection of cybersecurity and distributed systems!
