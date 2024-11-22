@@ -12,14 +12,17 @@ It focuses on the **security challenges** in remote distributed consensus estima
    - Manage users:
 
 **Technologies Used 💻**
-**🌐Frontend :** HTML5, CSS3, JavaScript
-**⚙️Backend :** Java/J2EE, JSP, Servlets  
-**Database :** MySQL
 
-**Prerequisites ✅⚙️**
-Ensure you have the following installed on your system:  
-1. **Java Development Kit (JDK)** (Version 8 or later) ☕  
-2. **Apache Tomcat** (Version 9 or later) 🌐  
-3. **MySQL** (Version 8.0 or later) 🗄️  
-4. **IDE**: Eclipse/IntelliJ IDEA recommended for Java development 🖥️  
-5. **Web Browser** (for testing the web interface) 🌍
+- **🌐Frontend :** HTML5, CSS3, JavaScript
+- **⚙️Backend :** Java/J2EE, JSP, Servlets  
+- **🗄️Database :** MySQL
+
+**Prerequisites ✅ ⚙️**
+
+Ensure you have the following installed on your system:
+
+1. **Java Development Kit (JDK) :** (Version 8 or later)☕  
+2. **Apache Tomcat :** (Version 9 or later)🌐
+3. **MySQL :** (Version 8.0 or later)🗄️
+4. **IDE :** Eclipse/IntelliJ IDEA recommended for Java development🖥️  
+5. **Web Browser :** (for testing the web interface)🌍
